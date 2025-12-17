@@ -1,2 +1,2 @@
 # Licence-Reconization
-# Source code, test image and results
+# Source code and test image
