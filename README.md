@@ -1,2 +1,2 @@
 # Licence-Reconization
-# -*50
+# Source code, test image and results
